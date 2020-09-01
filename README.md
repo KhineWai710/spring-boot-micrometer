@@ -1,2 +1,2 @@
 # spring-boot-micrometer
-Learn for spring boot with micrometer
+Learn Spring Boot with Micrometer Application Monitoring
